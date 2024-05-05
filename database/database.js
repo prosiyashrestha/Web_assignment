@@ -5,5 +5,5 @@ const connectDatabase = () => {
     console.log("Database connected!");
   });
 };
-
+//database
 module.exports = connectDatabase;
